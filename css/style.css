@@ -1,0 +1,14 @@
+.feature{
+    display: inline-flex;
+    align-items: center;
+    justify-content:center;
+    height:50px;
+    width: 50px;
+    font-size: 35px;
+   
+}
+#get-in-touch{
+    width:65% ;
+    margin:auto;
+   
+}
